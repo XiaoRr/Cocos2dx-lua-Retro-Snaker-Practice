@@ -6,6 +6,8 @@
 
 由于整个目录过大，这里只提供simluator/Win32下的res和src文件，直接覆盖编译出的HelloWorld下的同目录即可
 
+ps:我的项目叫Snake，如果发生不可名状的错误，你可能需要创建一个同名的项目。
+
 ### 参考配置方法：
 http://www.cocos.com/docs/native/v3/getting-started/setting-up-development-environments-on-windows7-with-vs2013/zh.html
 
