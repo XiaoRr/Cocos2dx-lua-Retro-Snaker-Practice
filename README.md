@@ -4,6 +4,8 @@
 
 运行之前你需要配置好cocos2dx的开发环境
 
+由于整个目录过大，这里只提供simluator/Win32下的res和src文件，直接覆盖编译出的HelloWorld下的同目录即可
+
 ### 参考配置方法：
 http://www.cocos.com/docs/native/v3/getting-started/setting-up-development-environments-on-windows7-with-vs2013/zh.html
 
@@ -31,3 +33,5 @@ http://www.imooc.com/learn/487
 ### 个人感想
 
 cocos2dx-lua已经完蛋了，但是依然有一定的学习意义，本人由于苦逼的实习被迫拾起这门2年前的技术（没错，而且还只能找到两年前的同一个教程），希望能给寥寥无几的后来者一点帮助。
+
+[api查询](http://api.cocos.com/index.html)
